@@ -1,13 +1,14 @@
 header{
-  width:auto;
-  height:auto;
+  width: 600px;;
+  height:200px;
   background-color:lightpink;
 }
 
 footer{
-  width:auto;
-  height:auto;
+  width: 600px;;
+  height:200px;
   background-color:plum;
+
 }
 #a{
   background-color:snow;
@@ -73,3 +74,34 @@ footer{
   background-color:lavenderblush;
 }
 
+th#a{
+  background-color:orangered;
+}
+
+th#c{
+  background-color:rebeccapurple;
+}
+
+th#e{
+  background-color:royalblue;
+}
+
+th#g{
+  background-color:darkturquoise;
+}
+
+th#i{
+  background-color:tomato;
+}
+
+th#k{
+  background-color:aqua;
+}
+
+th#m{
+  background-color:violet;
+}
+
+th#o{
+  background-color:yellow;
+}
